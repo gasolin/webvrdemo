@@ -6,8 +6,16 @@
  </head>
  <body>
    <a-scene>
-     <a-sky src="2016-04-26-11.09.50.jpg" rotation="0 -130 0"></a-sky>
+     <!-- Using the asset management system for better performance. -->
+     <a-assets>
+       <img id="office" src="2016-04-26-11.09.50.jpg">
+     </a-assets>
+     <!-- <a-ring color="teal" radius-inner="1" radius-outer="2"></a-ring> -->
+     <!-- <a-sky src="2016-04-26-11.09.50.jpg" rotation="0 -130 0"></a-sky> -->
+     <!-- <a-animation attribute="rotation" repeat="indefinite" to="0 360 0"></a-animation> -->
+     <a-curvedimage src="2016-04-26-11.09.50.jpg" height="20" radius="10.0" theta-length="300"
+                 rotation="0 100 0"></a-curvedimage>
+      <a-sky color="darkgrey"></a-sky> -->
    </a-scene>
  </body>
 </html>
-
