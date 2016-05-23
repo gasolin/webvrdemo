@@ -1,5 +1,5 @@
 ## 360 vr
-Shot by [street view](http://gasolin.github.io/webvrdemo/360vr.html)
+Shot by [street view](http://gasolin.github.io/webvrdemo/pano.html)
 
 ## panorama (partial 360 image)
 Shot by [Sony z3c camera](http://gasolin.github.io/webvrdemo/)
