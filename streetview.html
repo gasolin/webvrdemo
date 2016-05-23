@@ -1,17 +1,15 @@
 <html>
  <head>
    <meta charset="utf-8">
-   <title>My first VR site</title>
+   <title>360image via Streetview</title>
    <script src="https://aframe.io/releases/0.2.0/aframe.min.js"></script>
  </head>
  <body>
    <a-scene>
-     <!-- Using the asset management system for better performance. -->
-     <!-- <a-assets>
-       <img id="office" src="PANO_20160426_164448_0.jpg">
-     </a-assets> -->
-     <!-- <a-ring color="teal" radius-inner="1" radius-outer="2"></a-ring> -->
-     <a-sky src="PANO_20160523_135032_0.jpg" rotation="0 -130 0"></a-sky>
+     <a-assets>
+       <img id="office" src="PANO_20160523_135032_0.jpg">
+     </a-assets>
+     <a-sky src="#office" rotation="0 -130 0"></a-sky>
    </a-scene>
  </body>
 </html>
