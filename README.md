@@ -1,10 +1,10 @@
-## 360 vr
-Shot by [street view](http://gasolin.github.io/webvrdemo/pano.html)
+## 360 image
+Shot by [street view](http://gasolin.github.io/webvrdemo/360img.html)
 
-## panorama (partial 360 image)
+## Panorama
+Shot by [cardboard camera](http://gasolin.github.io/webvrdemo/cardboardcam)
+
+## Partial panorama images
 Shot by [Sony z3c camera](http://gasolin.github.io/webvrdemo/)
 
 Shot by [iPhone](http://gasolin.github.io/webvrdemo/teambuilding)
-
-## 360 camera (360 image)
-Shot by [cardboard camera](http://gasolin.github.io/webvrdemo/cardboardcam)
