@@ -1,5 +1,5 @@
 ## 360 image
-Shot by [street view](http://gasolin.github.io/webvrdemo/360img.html)
+Shot by [street view](http://gasolin.github.io/webvrdemo/streetview.html)
 
 ## Panorama
 Shot by [cardboard camera](http://gasolin.github.io/webvrdemo/cardboardcam)
