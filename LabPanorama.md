@@ -7,7 +7,7 @@ You will learn:
 ## Prerequisite
 
 * Android or iOS device
-* Please make sure you understand [Lab 1](LabBase) before following this Lab.
+* Please make sure you understand the [first Lab](LabBase.md) before following this Lab.
 
 [fork this project](https://github.com/gasolin/webvrdemo) to start. Click up right `fork` button on `https://github.com/gasolin/webvrdemo` github page, it will fork a clone to your own repository.
 
@@ -53,4 +53,4 @@ The `radius` is set to the default value of [a-sky](https://aframe.io/docs/primi
 
 1. Replace your image in the `src` attribute of the `a-curvedimage` tag, then reload the page to see how it looks like.
 
-2. Reference the [previous Lab](Lab360Image), use `a-assets` and #id to define the image resource in `a-asset` tag.
+2. Reference the [previous Lab](Lab360Image.md), use `a-assets` and #id to define the image resource in `a-asset` tag.

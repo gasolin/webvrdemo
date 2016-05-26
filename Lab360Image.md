@@ -7,7 +7,7 @@ You will learn:
 ## Prerequisite
 
 * Android or iOS device
-* Please make sure you understand [first Lab](LabBase) before following this Lab.
+* Please make sure you understand the [first Lab](LabBase.md) before following this Lab.
 
 ## Import Library
 
