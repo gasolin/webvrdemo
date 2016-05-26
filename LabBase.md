@@ -57,6 +57,6 @@ The position is defined with `position = "x y z"` value.
 
 ## Your task
 
-Change colors and positions of existing elements,
+* Change colors and positions of existing elements,
 
-Check [Reference](https://aframe.io/docs/primitives/) and add `a-plane` behind the box and sphere, set it's height and width to 20.
+* Check [Reference](https://aframe.io/docs/primitives/) and add `a-plane` behind the box and sphere, set it's height and width to 20.
