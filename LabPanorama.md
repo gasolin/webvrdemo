@@ -6,8 +6,8 @@ You will learn:
 
 What you will make:
 
-* [360 degree panorama](http://gasolin.github.io/webvrdemo/cardboardcam)
-* [Partial panorama](http://gasolin.github.io/webvrdemo/)
+* [360 degree panorama with WebVR](http://gasolin.github.io/webvrdemo/cardboardcam)
+* [Partial panorama with WebVR](http://gasolin.github.io/webvrdemo/)
 
 ## Prerequisite
 
