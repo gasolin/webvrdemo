@@ -4,6 +4,10 @@ You will learn:
 * take 360 image with Streeview app
 * a-asset
 
+What you will make:
+
+* [demo](http://gasolin.github.io/webvrdemo/streetview.html)
+
 ## Prerequisite
 
 * Android or iOS device
