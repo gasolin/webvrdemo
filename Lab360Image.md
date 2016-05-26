@@ -6,7 +6,7 @@ You will learn:
 
 What you will make:
 
-* [demo](http://gasolin.github.io/webvrdemo/streetview.html)
+* [360 Image with WebVR](http://gasolin.github.io/webvrdemo/streetview.html)
 
 ## Prerequisite
 
