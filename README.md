@@ -7,4 +7,4 @@ Shot by [cardboard camera](http://gasolin.github.io/webvrdemo/cardboardcam)
 ## Partial panorama images
 Shot by [Sony z3c camera](http://gasolin.github.io/webvrdemo/)
 
-Shot by [iPhone](http://gasolin.github.io/webvrdemo/teambuilding)
+[Workshop materials] (https://github.com/gasolin/webvrdemo/wiki)
