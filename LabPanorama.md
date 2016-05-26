@@ -4,6 +4,11 @@ You will learn:
 * take panorama image with Cardboard Camera app
 * a-curvedimage
 
+What you will make:
+
+* [360 degree panorama](http://gasolin.github.io/webvrdemo/cardboardcam)
+* [Partial panorama](http://gasolin.github.io/webvrdemo/)
+
 ## Prerequisite
 
 * Android or iOS device
