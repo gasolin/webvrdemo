@@ -33,7 +33,7 @@ In HTML body section. Hit `Run` button in jsfiddle to see how it changed.
 
 You can reference element's document to find out what attribute it allow to set. Such as [a-scene](https://aframe.io/docs/core/scene.html), [a-sky](https://aframe.io/docs/primitives/a-sky.html), [a-sphere](https://aframe.io/docs/primitives/a-sphere.html)
 
-## Change position
+## Change position and rotation
 
 You can copy and paste
 ```
@@ -54,6 +54,11 @@ The position is defined with `position = "x y z"` value.
 
 ![webgl xyz](http://obviam.net/wp-content/uploads/2011/01/Vertices.png)
 
+We are also able to use [rotation](https://aframe.io/docs/components/rotation.html) attribute to change the angle of how the object is facing to the user. 
+
+For example, `rotation = "10 20 30"` takes the roll (x), which rotation about the X-axis to 10 degree, pitch (y), rotation about the Y-axis to 20 degree, and yaw (z), rotation about the Z-axis to 30 degree. 
+
+Combinding position and rotation could help you place the object anywhere as you expect.
 
 ## Your task
 
