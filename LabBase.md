@@ -18,7 +18,7 @@ Once you are ready, you can use [https://jsfiddle.net/gasolin/gnp0maop/](https:/
 ## Hello World
 
 You can copy and paste
-```
+```html
 <a-scene>
   <a-sphere color="lightgreen"></a-sphere>
   <a-sky color="skyblue"></a-sky>
@@ -36,7 +36,8 @@ You can reference element's document to find out what attribute it allow to set.
 ## Change position and rotation
 
 You can copy and paste
-```
+
+```html
 <a-scene>
   <a-sphere color="lightgreen" position="2 0 2"></a-sphere>
   <a-box color="red" position="2 2 0"></a-box>
