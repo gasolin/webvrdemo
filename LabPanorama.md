@@ -38,7 +38,7 @@ It takes some time to prepare the panorama photo. Once its done, you can view an
 
 You can copy and paste
 
-```
+```html
 <a-scene>
   <a-curvedimage src="2016-05-23-14.51.12.jpg"
     height="140" radius="100" theta-length="360"
