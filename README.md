@@ -5,6 +5,8 @@ Check [Hello WebVR](https://github.com/hellowebvr) for more workshop materials.
 ### 360 image
 Shot by [street view](http://gasolin.github.io/webvrdemo/streetview.html)
 
+Shot by [LG 360 CAM](http://gasolin.github.io/webvrdemo/360cam.html)
+
 ### Panorama
 Shot by [cardboard camera](http://gasolin.github.io/webvrdemo/cardboardcam)
 
