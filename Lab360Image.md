@@ -4,6 +4,10 @@ You will learn:
 * take 360 image with Streeview app
 * a-asset
 
+What you will make:
+
+* [360 Image with WebVR](http://gasolin.github.io/webvrdemo/streetview.html)
+
 ## Prerequisite
 
 * Android or iOS device
@@ -15,7 +19,7 @@ According to the [getting start guide](https://aframe.io/docs/guide/getting-star
 
 To create a brand new WebVR web page, we can drop a `script` tag straight into our HTML to include A-Frame in normal web page:
 
-```
+```html
 <script src="https://aframe.io/releases/0.2.0/aframe.min.js"></script>
 ```
 
@@ -43,7 +47,7 @@ Check [slide](http://www.slideshare.net/proyectoste/how-to-create-360-images-wit
 
 You can copy and paste
 
-```
+```html
 <a-scene>
   <a-assets>
     <img id="office" src="PANO_20160523_135032_0.jpg">
