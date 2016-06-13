@@ -2,7 +2,7 @@
 
 You will learn:
 * take 360 image with Streeview app
-* a-asset
+* a-videosphere
 
 What you will make:
 
