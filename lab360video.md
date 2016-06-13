@@ -1,4 +1,4 @@
-# Lab 2: Create 360 image
+# Lab 4: Create 360 image
 
 You will learn:
 * take 360 image with Streeview app
